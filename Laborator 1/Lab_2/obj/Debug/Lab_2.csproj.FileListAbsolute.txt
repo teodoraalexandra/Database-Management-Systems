@@ -1,0 +1,9 @@
+C:\Users\Teodora Dan\source\repos\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\Teodora Dan\source\repos\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\Teodora Dan\source\repos\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\Teodora Dan\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\Users\Teodora Dan\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\Teodora Dan\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Teodora Dan\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\Teodora Dan\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\Teodora Dan\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.pdb

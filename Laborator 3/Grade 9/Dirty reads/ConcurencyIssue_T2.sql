@@ -1,0 +1,9 @@
+--Dirty Reads Part 2 
+--T2: select + delay + select
+
+SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED 
+BEGIN TRAN 
+SELECT * FROM Athlete 
+WAITFOR DELAY '00:00:15' 
+SELECT * FROM Athlete
+COMMIT TRAN 
